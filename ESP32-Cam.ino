@@ -8,7 +8,7 @@ const char* ssid = "**";
 const char* password = "**";
 
 // Flask server URL
-const char* serverUrl = "http://192.168.110.160:5000/upload";
+const char* serverUrl = "http://192.168.110.XXX:5000/upload";
 
 // Time interval - SET TO 10 SECONDS
 const unsigned long CAPTURE_INTERVAL = 10000;  // 10 seconds for continuous monitoring
