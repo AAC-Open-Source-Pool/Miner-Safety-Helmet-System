@@ -175,8 +175,8 @@ You should see the real-time monitoring dashboard with auto-refreshing images an
 ## System Architecture
 
 ```
-┌─────────────────────────────────────────────────┐
-│           MINER SAFETY HELMET                   │
+┌────────────────────────────────────────────────┐
+│           MINER SAFETY HELMET                  │
 │  ┌──────────────────┐  ┌────────────────────┐  │
 │  │   ESP32 WROOM    │  │   ESP32-CAM        │  │
 │  │                  │←→│    WROVER          │  │
@@ -187,7 +187,7 @@ You should see the real-time monitoring dashboard with auto-refreshing images an
 │  │  - LCD Display   │  │                    │  │
 │  │  - Buzzer        │  │                    │  │
 │  └──────────────────┘  └────────────────────┘  │
-└─────────────────────────────────────────────────┘
+└────────────────────────────────────────────────┘
                     │
                     │ WiFi (Local Network)
                     ↓
