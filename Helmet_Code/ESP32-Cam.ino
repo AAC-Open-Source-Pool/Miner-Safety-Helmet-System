@@ -4,11 +4,11 @@
 #include <HTTPClient.h>
 
 // WiFi credentials
-const char* ssid = "**";
-const char* password = "**";
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 // Flask server URL
-const char* serverUrl = "http://192.168.110.XXX:5000/upload";
+const char* serverUrl = "http://YOUR_LOCAL_IP:5000/upload";
 
 // Time interval - SET TO 10 SECONDS
 const unsigned long CAPTURE_INTERVAL = 10000;  // 10 seconds for continuous monitoring
