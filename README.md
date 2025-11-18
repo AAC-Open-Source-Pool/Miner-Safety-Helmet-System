@@ -73,7 +73,6 @@ Mining operations expose workers to numerous hazards including toxic gases, extr
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/AAC-Open-Source-Pool/25AACR23.git
-cd 25AACR23
 ```
 
 ### Step 2: Hardware Setup
