@@ -528,8 +528,9 @@ if __name__ == '__main__':
     print('✓ Alert detection active')
     print('✓ Real-time monitoring ready')
     print('=' * 60)
-    print('Server: http://192.168.XXX.XXX:5000')
+    print('Server: http://YOUR_LOCAL_IP:5000')
     print('=' * 60)
 
     app.run(host='0.0.0.0', port=5000, debug=True)
+
 
