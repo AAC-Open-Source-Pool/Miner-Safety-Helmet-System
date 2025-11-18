@@ -163,7 +163,7 @@ You should see the real-time monitoring dashboard with auto-refreshing images an
 
 ## Preview
 <div align="center">
-  <img src="./Img/Demo1.jpg" width="300px" height="250px" style="border-radius: 5%">
+  <img src="./Img/Demo1.jpeg" width="300px" height="250px" style="border-radius: 5%">
   <p><i>Miner Safety Helmet with integrated sensors and ESP32-CAM</i></p>
 </div>
 
